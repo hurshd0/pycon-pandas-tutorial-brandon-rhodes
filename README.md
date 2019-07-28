@@ -21,3 +21,5 @@ needed to download and set up the data set that we used.
 ## Quick Start
 
 Just click on launch binder icon to get started.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hurshd0/pycon-pandas-tutorial-brandon-rhodes/master)
